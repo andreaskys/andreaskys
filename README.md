@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 
 <br><br> I’m currently learning c and machine learning<br><br> I’m looking to collaborate on web3 projects<br><br> Ask me about java<br><br> How to reach me andreasnunesmachadodev@gmail.com<br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreasnunes) 
 
 # 💻 Tech Stack:
